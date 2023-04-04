@@ -4,4 +4,4 @@ This is a Python program (using the `whois` module) that extracts information fr
 ## Requirements
 
 - Python 3
-- `whois` module
+- `whois` module (`pip install python-whois`)
